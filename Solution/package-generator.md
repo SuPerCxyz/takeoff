@@ -69,7 +69,7 @@ def _verify_sign(cls, signature, resource_md5):
 
 删除resource.md5文件后打包文件</br>
 cd /data/release/solution-storage && rm -f resource.md5</br>
-cd /data/release/solution-storage && zip -P EasyStack20!8ECSRocks! -r solution-storage-test.es * </br>
+cd /data/release/solution-storage && zip -P xxxxxxxxx -r solution-storage-test.es * </br>
 
 /data/release/solution-storage文件夹内容如下：</br>
 ```shell
